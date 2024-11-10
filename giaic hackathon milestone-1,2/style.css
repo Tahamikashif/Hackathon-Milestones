@@ -1,0 +1,193 @@
+
+.Resume.container{
+
+width: 80%;
+border-radius: 10px;
+box-shadow: 0 0 20px rgba(0,0,0,0.1);
+display: grid;
+background-color: gray;
+justify-content: center;
+align-items: center;
+background-color: whitesmoke;
+}
+
+.left-Section{
+
+background-color: #2c2c2c;
+color: whitesmoke;
+width: 290px;
+height: 620px;
+padding: 32px;
+text-align: center;
+border-right: 5px solid #e63946;
+margin-right: 30px;
+margin-top: 40px;
+border-radius: 8px;
+grid-template-columns: 45%;
+margin: 30px;
+
+}
+
+.prof-p{
+
+width: 140px;
+height: 120px;
+border: 5px solid rgb(139, 120, 120);
+border-radius: 4px;
+
+
+}
+
+
+.Career-Ob{
+
+width: 280px;
+padding: 10px;
+background-color: black;
+box-shadow: 0 0 20px rgb(12, 12, 151); 
+font-size: 16px;
+border-radius: 8px;
+margin-top: 40px;
+}
+
+.Para{
+    text-align: justify;
+hyphens: manual;
+
+
+}
+
+.Certificate-Ob{
+
+    width: 280px;
+    padding: 10px;
+    background-color: black;
+    box-shadow: 0 0 20px rgb(12, 12, 151); 
+    font-size: 16px;
+    border-radius: 8px;
+    margin-top: 40px;
+
+}
+
+.Right-section{
+
+    display: grid;
+    grid-template-rows: 2px;
+    background-color:whitesmoke;
+    margin-left: 389px;
+    margin-top: -713px;
+    height: 685px;
+    gap: 40px;
+    border-radius: 8px;
+
+
+
+}
+
+.Static{
+
+font-size: 30px;
+font-style: oblique;
+display: flex ;
+justify-content: center;
+align-items: center;
+}
+
+.personal-info{
+
+width: 600px;
+background-color: whitesmoke;
+margin-left: 12px;
+border-radius: 8px;
+text-align: justify;
+box-shadow: 0 0 19px rgb(61, 59, 59);
+font-style: oblique;
+}
+
+
+.P{
+
+margin-left: 8px;
+
+
+}
+
+.education{
+
+    width: 600px;
+    background-color: whitesmoke;
+    margin-left: 12px;
+    border-radius: 8px;
+    text-align: justify;
+    box-shadow: 0 0 18px rgb(61, 59, 59);
+    margin-top: -30px;
+    font-style: oblique;
+
+}
+
+.skills{
+
+    width: 600px;
+    background-color: whitesmoke;
+    margin-left: 12px;
+    border-radius: 8px;
+    text-align: justify;
+    box-shadow: 0 0 20px rgb(61, 59, 59);
+    margin-top: -30px;
+    font-style: oblique;
+
+
+}
+
+
+.u{
+
+font-size: 17px;
+
+}
+
+.experiance{
+
+    width: 600px;
+    background-color: whitesmoke;
+    margin-left: 12px;
+    border-radius: 8px;
+    text-align: justify;
+    box-shadow: 0 0 20px rgb(61, 59, 59);
+    margin-top: -37px;
+    font-style: oblique;
+
+
+
+}
+
+
+#toggle-skills{
+
+margin-top: -48px;
+width: 400px;
+height: 35px;
+margin-left: 4px;
+background-color: rgb(156, 150, 150);
+color: black;
+border-radius: 8px;
+}
+
+#toggle-skills:hover{
+
+background-color: rgb(212, 174, 105);
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
